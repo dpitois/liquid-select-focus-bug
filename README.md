@@ -5,7 +5,10 @@ This template should help get you started developing with [Liquid Oxygen](https:
 
 ## About
 
-This repo reproduces an weird bug on LdSelect focus which does not always occures.
+This repo reproduces an weird bug on LdSelect focus which does not always occures:  
+
+- Liquid related: [issue#813](https://github.com/emdgroup-liquid/liquid/issues/813).  
+- Codesandbox: [repro sandbox](https://codesandbox.io/p/github/dpitois/liquid-select-focus-bug/main?file=/README.md:1,1&workspaceId=bd142dc9-6e08-409c-9537-d407ff1d0ee3).
 
 ## Repro steps
 
